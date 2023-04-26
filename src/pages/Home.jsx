@@ -25,7 +25,7 @@ function Homepage() {
             <div className="blog-title">Lorem ipsum dolor sit amet</div>
             <div className="blog-body">
               <img
-                src="/public/download.png"
+                src="/public/css.png"
                 alt="image"
                 width="128"
                 height="128"
@@ -46,7 +46,7 @@ function Homepage() {
             <div className="blog-title">Lorem ipsum dolor sit amet</div>
             <div className="blog-body">
               <img
-                src="/public/download.png"
+                src="/public/html.png"
                 alt="image"
                 width="128"
                 height="128"
@@ -67,7 +67,7 @@ function Homepage() {
             <div className="blog-title">Lorem ipsum dolor sit amet</div>
             <div className="blog-body">
               <img
-                src="/public/download.png"
+                src="/public/url.png"
                 alt="image"
                 width="128"
                 height="128"
